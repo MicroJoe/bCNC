@@ -11,7 +11,7 @@
 #	print(path['path'])
 
 import numpy
-from svg_elements import SVG, Path, Move, Shape, Line, Close, Arc
+from svgelements import SVG, Path, Move, Shape, Line, Close, Arc
 
 
 class SVGcode:
